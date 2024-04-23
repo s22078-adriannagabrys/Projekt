@@ -9,7 +9,3 @@ st.title('Zebrafish malformations classification')
 
 # set header
 st.header('Please upload a Zebrafish larvae image')
-
-
-    # Display the DataFrame as a table with invisible borders
-    st.write(df)
